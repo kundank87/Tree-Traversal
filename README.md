@@ -1,2 +1,2 @@
-# Interview-Prep-SwiftUI
-It has multiple interview coding questions and solutions in SwiftUI.
+# Tree Traversal SwiftUI
+This Project contains the code in SwiftUI with actual representation of tree and it's traversal.
